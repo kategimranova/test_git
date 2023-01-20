@@ -3,3 +3,6 @@ main
 
 def a():
   print(2)
+  
+def b():
+  print(3)
