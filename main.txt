@@ -1,2 +1,5 @@
 hello world! eeee
 main
+
+def a():
+  print(1)
